@@ -15,4 +15,4 @@ A modern, responsive frontend interface for an online bookstore. Designed with a
 
 ## 🔗 Live Demo
 [Click here to view the site](https://aadipalsingh.github.io/BookBreeze/)
-*(Make sure to enable GitHub Pages in Settings -> Pages to make this link work)*
+
